@@ -1,0 +1,9 @@
+[submodule "jhipster-sandbox-gateway"]
+	path = jhipster-sandbox-gateway
+	url = https://github.com/cmavelis/jhipster-sandbox-gateway.git
+[submodule "microservice1"]
+	path = microservice1
+	url = https://github.com/cmavelis/jhipster-sandbox-ms1.git
+[submodule "jhipster-registry"]
+	path = jhipster-registry
+	url = https://github.com/jhipster/jhipster-registry.git
